@@ -1,19 +1,19 @@
 {
-  "team_name": "",
+  "team_name": "Guitar Heroes",
   "team_members": [
     {
-      "name": "",
-      "github": ""
+      "name": "Kevin Molloy",
+      "github": "kmolloy717"
     },
     {
-      "name": "",
-      "github": ""
+      "name": "Penny Molloy",
+      "github": "dog"
     }
   ],
   "project_preferences": [
-    "",
-    "",
-    ""
+    "minimum_vertex_cover",
+    "traveling_salesperson",
+    "longest_path"
   ],
-  "assigned_problem": ""
+  "assigned_problem": "traveling_salesperson"
 }
